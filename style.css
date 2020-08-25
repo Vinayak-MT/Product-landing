@@ -1,0 +1,154 @@
+#name {
+    padding-left: 260px;
+    margin-top: -120px;
+    font-family: sans-serif;
+    font-size: 25px;
+}
+
+h2 {
+    text-align: center;
+    padding-top: 20px;
+}
+
+#email {
+    margin-left: 570px;
+}
+
+label {
+    margin-left: 570px;
+}
+
+#button1 {
+    margin-left: 610px;
+    margin-top: 5px;
+    background-color: yellow;
+    font-weight: bolder;
+    margin-left: 560px;
+}
+
+#flame {
+    margin-left: 150px;
+    margin-top: 100px;
+}
+
+#flame-letter {
+    margin-left: 400px;
+    margin-top: -150px;
+    font-size: 35px;
+    font-weight: bolder;
+}
+
+#ot {
+    margin-left: 400px;
+    margin-top: -20px;
+    font-size: larger;
+}
+
+#vehicle {
+    margin-top: 100px;
+    margin-left: 130px;
+}
+
+#shipping {
+    margin-left: 400px;
+    margin-top: -160px;
+    font-size: 35px;
+    font-weight: bolder;
+}
+
+#ship-letter {
+    margin-left: 400px;
+    margin-top: -20px;
+    font-size: larger;
+}
+
+#features {
+    margin-left: 850px;
+    color: black;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#battery {
+    margin-top: 50px;
+    margin-left: 150px;
+}
+
+#battery-head {
+    margin-left: 400px;
+    margin-top: -160px;
+    font-size: 35px;
+    font-weight: bolder;
+}
+
+#battery-letter {
+    margin-left: 400px;
+    margin-top: -20px;
+    font-size: larger;
+}
+
+#box1 {
+    border: 1px solid black;
+    width: 300px;
+    margin-left: 150px;
+    margin-top: 100px;
+    text-align: center;
+    height: 300px;
+    font-size: large;
+}
+
+.dollor {
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+h4 {
+    background-color: gray;
+    height: 30px;
+    margin-top: 0px;
+}
+
+iframe {
+    margin-left: 400px;
+    margin-top: 50px;
+}
+
+button {
+    background-color: yellow;
+    width: 200px;
+    height: 50px;
+}
+
+#box2 {
+    border: 1px solid black;
+    width: 300px;
+    margin-left: 550px;
+    margin-top: -300px;
+    text-align: center;
+    height: 300px;
+    font-size: large;
+}
+
+#box3 {
+    border: 1px solid black;
+    width: 300px;
+    margin-left: 950px;
+    margin-top: -300px;
+    text-align: center;
+    height: 300px;
+    font-size: large;
+}
+
+#how {
+    margin-left: 1000px;
+    color: black;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif; 
+}
+
+#price {
+    margin-left: 1200px;
+    color: black;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif; 
+}
